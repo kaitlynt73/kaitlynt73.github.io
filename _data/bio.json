@@ -1,7 +1,9 @@
 {
   "basics": {
     "name": "Kaitlyn Tokunaga",
-    "label": [ "Student", "Shidler", "Undergraduate" ]
+    "label": "Student",
+    "label": "Shidler",
+    "label": "Undergraduate",
     "picture": "https://github.com/kaitlynt73.png",
     "email": "kt73@hawaii.edu",
     "phone": "808-721-1217",
