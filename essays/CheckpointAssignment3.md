@@ -30,3 +30,5 @@ labels:
 <br>
 <h1>How are you approaching Assignment 3 differently than Assignment 2?</h1>
 <p>The biggest difference in approach is the usage of errors and query strings. Instead of relying on errors from the query string, the errors (validation) will be done prior to adding data to the session. Since information will be validated before it is added to the session, I do not need to use the query string for errors anymore. So far, this is what I've noticed, but I'm sure there will be more differences as I begin to finish my Assignment 3.</p>
+<br>
+<p>If you are interested, here is the code for my <a href="https://github.com/kaitlynt73/ITM352_F23_repo/tree/ff9e2cff02aecad61fa5ef82f85993a52cbf0250/Tokunaga_Assignment3_DRAFT_copy">current Assignemnt 3</a></p>
