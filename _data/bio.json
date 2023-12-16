@@ -1,0 +1,73 @@
+{
+  "basics": {
+    "name": "Kaitlyn Tokunaga",
+    "label": "Student",
+    "label": "Shidler",
+    "label": "Undergraduate",
+    "picture": "https://github.com/kaitlynt73.png",
+    "email": "kt73@hawaii.edu",
+    "phone": "808-721-1217",
+    "website": "https://kaitlynt73.github.io",
+    "summary": "I am studying for a B.B.A. in Accounting and MIS at the University of Hawaii's Shidler College of Business. I expect to graduate in Spring, 2026.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "kaitlynt73", "url": "http://github.com/kaitlynt73" },
+      { "network": "linkedin", "username": "Kaitlyn Tokunaga", "url": "www.linkedin.com/in/kaitlyn-tokunaga-54525924b" },
+      { "network": "instagram", "username": "kait.lyn7315", "url": "http://instagram.com/kait.lyn7315" }
+    ]
+  },
+  "interests": [
+    { "name": "Music" },
+    { "name": "Tennis" },
+    { "name": "Accounting" },
+    { "name": "Japanese" }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [ "English", "Japanese" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Accounting and Management Information Systems (expected Spring, 2026)",
+      "studyType": "B.B.A.",
+      "startDate": "2022-08-22",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa KOKUA",
+      "position": "Note-taker",
+      "website": "",
+      "startDate": "2022-08-22",
+      "endDate": "Present",
+      "summary": "Take notes for students with needs",
+      "highlights": [
+        "Audit lectures",
+        "Organize notes to be easy to navigate"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Manoa Merit Scholarship",
+      "date": "2022-Present",
+      "awarder": "University of Hawai'i at Mānoa",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 or above."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
